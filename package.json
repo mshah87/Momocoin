@@ -1,0 +1,10 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "sup",
+  "license": "NO",
+  "author": "me",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
